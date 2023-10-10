@@ -1,0 +1,7 @@
+U:\SIO2\TD\TD3 C#\TD3C-\TD3C-\obj\Debug\TD3C-.csproj.AssemblyReference.cache
+U:\SIO2\TD\TD3 C#\TD3C-\TD3C-\obj\Debug\TD3C-.csproj.CoreCompileInputs.cache
+U:\SIO2\TD\TD3 C#\TD3C-\TD3C-\bin\Debug\TD3C-.exe.config
+U:\SIO2\TD\TD3 C#\TD3C-\TD3C-\bin\Debug\TD3C-.exe
+U:\SIO2\TD\TD3 C#\TD3C-\TD3C-\bin\Debug\TD3C-.pdb
+U:\SIO2\TD\TD3 C#\TD3C-\TD3C-\obj\Debug\TD3C-.exe
+U:\SIO2\TD\TD3 C#\TD3C-\TD3C-\obj\Debug\TD3C-.pdb
